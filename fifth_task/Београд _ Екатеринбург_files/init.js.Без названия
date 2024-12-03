@@ -1,0 +1,1 @@
+!function(){function e(){const e=document.createElement("script");e.src="https://fs.me/pr/release/js/core-CqcLd-wS.js",e.type="module",e.crossOrigin=!0,document.head.appendChild(e)}"complete"===document.readyState?e():window.addEventListener("load",(function(){e()}))}();
